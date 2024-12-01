@@ -70,4 +70,4 @@ This project is for educational and non-commercial use only. If you'd like to us
 
 ---
 
-### 🚓 Drive with responsibility (and fun)! 🚦
+### Run And Fun! 🚦
