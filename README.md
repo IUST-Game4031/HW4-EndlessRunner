@@ -27,7 +27,7 @@ Welcome to the **3D Endless Runner** project! In this game there is one characte
 
 ---
 
-## 🛠️ Challenges
+## ⚓ Challenges
 
 - **Animation Flow**: We create an animation flow that bring possibility to switch among animations(breathing / running / falling down)
 - **Obstacles Generator**: We create a service to generate random obstacles in the road so that not blocking character and not easy to guess
